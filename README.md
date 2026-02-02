@@ -63,12 +63,16 @@ I am passionately self-improving in the fields of **Artificial Intelligence**, *
 
 <div align="center">
 
+<!-- Basit ve Çalışan İstatistik Kartları -->
 <a href="https://github.com/fatih-bulut">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatih-bulut&show_icons=true&theme=radical&locale=en&bg_color=1a1a40&title_color=9d00ff&icon_color=ffffff&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatih-bulut&show_icons=true&theme=tokyonight" alt="Fatih's GitHub Stats" />
 </a>
 
+<br/>
+<br/>
+
 <a href="https://github.com/fatih-bulut">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatih-bulut&layout=compact&theme=radical&locale=en&bg_color=1a1a40&title_color=9d00ff&icon_color=ffffff&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatih-bulut&layout=compact&theme=tokyonight" alt="Top Languages" />
 </a>
 
 </div>
