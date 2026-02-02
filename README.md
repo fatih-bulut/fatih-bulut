@@ -1,12 +1,41 @@
 ![Header](header.svg)
 
-# Hakkımda
+<div align="center">
 
-Merhaba! Ben **Fatih Bulut**.
+# Fatih Bulut
 
-🎓 **ISUBU Teknoloji Fakültesi Bilgisayar Mühendisliği 1. Sınıf öğrencisiyim.**
+**Computer Engineering Student (3rd Year) | AI & Backend Developer**
 
-💻 Güncel teknoloji ve programlama dillerini takip etmeyi, yeni projeler geliştirmeyi seviyorum.
+🚀 Yazılım geliştirme, **Yapay Zeka** ve **Makine Öğrenmesi** alanlarında tutkulu bir mühendis adayı.
+Şu anda **TÜBİTAK 2209-A** kapsamında "Proaktif Gözetim Sistemi" üzerine çalışıyor ve backend mimarileri geliştiriyorum.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/fatih-bulut) | [Email](mailto:fatih@example.com)
+
+### 🛠️ Teknolojiler & Yetenekler
+
+| Dil / Alan | Araçlar |
+| :--- | :--- |
+| **Diller** | C++, Python, C#, Java, SQL |
+| **Yapay Zeka** | Pandas, NumPy, Scikit-learn, Matplotlib |
+| **Geliştirme** | OOP, REST API, Katmanlı Mimari, ASP.NET |
+| **Araçlar** | Git, MATLAB, Blender |
+
+---
+
+### 🔬 Öne Çıkan Projeler
+
+**🔹 Proaktif Gözetim Sistemi (TÜBİTAK 2209-A)**
+*   Yapay zeka destekli güvenlik sistemi projesi (Devam ediyor).
+
+**🔹 TranscriptoAI**
+*   AssemblyAI altyapısı ve Conformer tabanlı modellerle ses analizi ve dökümantasyon.
+*   Backend: REST API, Asenkron mimari.
+
+**🔹 Masaüstü Hastane Otomasyonu**
+*   Java ve SQL kullanılarak geliştirilen kapsamlı yönetim sistemi.
+
+---
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fatih-bulut06/) &nbsp; [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:fatih@example.com)
+
+</div>
