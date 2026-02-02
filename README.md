@@ -7,7 +7,7 @@
 **Computer Engineering Student (3rd Year) | AI & Backend Developer**
 
 🚀 Yazılım geliştirme, **Yapay Zeka** ve **Makine Öğrenmesi** alanlarında tutkulu bir mühendis adayı.
-Şu anda **TÜBİTAK 2209-A** kapsamında "Proaktif Gözetim Sistemi" üzerine çalışıyor ve backend mimarileri geliştiriyorum.
+
 
 <br>
 
