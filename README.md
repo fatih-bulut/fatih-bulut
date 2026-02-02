@@ -35,7 +35,7 @@
 ## 🚀 Öne Çıkan Projeler
 
 *   **⚡ [Proaktif Gözetim Sistemi (TÜBİTAK 2209-A)](https://github.com/fatih-bulut)**
-    <br>Yapay zeka destekli güvenlik sistemi projesi (Akademik Çalışma).
+    <br>Yapay zeka destekli güvenlik sistemi projesi .
 
 *   **📚 [Akademik Dil Koçu](https://github.com/fatih-bulut/akademik-dil-kocu)**
     <br>Akademik çalışmalar ve dil gelişimi için tasarlanmış yardımcı platform.
