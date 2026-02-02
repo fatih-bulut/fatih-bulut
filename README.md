@@ -37,16 +37,16 @@
 *   **⚡ [Proaktif Gözetim Sistemi (TÜBİTAK 2209-A)](https://github.com/fatih-bulut)**
     <br>Yapay zeka destekli güvenlik sistemi projesi. Görüntü işleme ve tehdit algılama üzerine odaklanan akademik çalışma (Devam ediyor).
 
-*   **🎙️ [TranscriptoAI](https://github.com/fatih-bulut)**
+*   **🎙️ [TranscriptoAI](https://github.com/fatih-bulut/TranscriptoAI)**
     <br>AssemblyAI altyapısı ve Conformer tabanlı modeller kullanılarak geliştirilen ses analizi ve dökümantasyon aracı. Asenkron REST API mimarisi.
 
-*   **🏥 [Masaüstü Hastane Otomasyonu](https://github.com/fatih-bulut)**
+*   **🏥 [Masaüstü Hastane Otomasyonu](https://github.com/fatih-bulut/Masaustu-Hastane-Otomasyonu)**
     <br>Java ve SQL kullanılarak geliştirilen, hasta ve randevu yönetimini sağlayan kapsamlı masaüstü uygulaması.
 
-*   **🎬 [Film İzleme Sitesi](https://github.com/fatih-bulut)**
+*   **🎬 [Film İzleme Sitesi](https://github.com/fatih-bulut/Film-Izleme-Sitesi)**
     <br>HTML, CSS, Bootstrap ve JavaScript ile geliştirilmiş modern, responsive film izleme platformu arayüzü.
 
-*   **🖍️ [Kırtasiye Otomasyonu](https://github.com/fatih-bulut)**
+*   **🖍️ [Kırtasiye Otomasyonu](https://github.com/fatih-bulut/Kirtasiye-Otomasyonu-Bagli-Listeler)**
     <br>C++ ile geliştirilmiş stok takibi ve satış yönetimi sağlayan otomasyon sistemi.
 
 <br>
