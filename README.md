@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a40,100:9d00ff&height=250&section=header&text=Fatih%20Bulut&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20&%20AI%20Enthusiast&descAlignY=60&descAlign=50" />
+  <img src="assets/banner.png" width="100%" alt="Fatih Bulut Banner" />
 </div>
 
 <div align="center">
