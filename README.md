@@ -38,7 +38,7 @@
     <br>Yapay zeka destekli güvenlik sistemi projesi .
 
 *   **📚 [Akademik Dil Koçu](https://github.com/fatih-bulut/akademik-dil-kocu)**
-    <br>Akademik çalışmalar ve dil gelişimi için tasarlanmış yardımcı platform.
+    <br>Akademik çalışmalar ve dil gelişimi için tasarlanmış yardımcı platform
 
 *   **🛡️ [CryptoGuard](https://github.com/fatih-bulut/CryptoGuard)**
     <br>Veri güvenliği ve şifreleme işlemleri için geliştirilmiş güvenlik aracı.
