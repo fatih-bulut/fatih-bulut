@@ -34,11 +34,17 @@
 
 ## 🚀 Öne Çıkan Projeler
 
-*   **⚡ [Proaktif Gözetim Sistemi (TÜBİTAK 2209-A)](https://github.com/fatih-bulut)**
-    <br>Yapay zeka destekli güvenlik sistemi projesi (Akademik Çalışma).
+*   **📚 [Akademik Dil Koçu](https://github.com/fatih-bulut/akademik-dil-kocu)**
+    <br>Akademik çalışmalar ve dil gelişimi için tasarlanmış yardımcı platform.
 
-*   **🖍️ [Kırtasiye Otomasyonu](https://github.com/fatih-bulut/Kirtasiye-Otomasyonu-Bagli-Listeler)**
-    <br>C++ ile geliştirilmiş, bağlı listeler kullanılarak stok takibi ve satış yönetimi sağlayan otomasyon sistemi.
+*   **🛡️ [CryptoGuard](https://github.com/fatih-bulut/CryptoGuard)**
+    <br>Veri güvenliği ve şifreleme işlemleri için geliştirilmiş güvenlik aracı.
+
+*   **🛒 [Online Ticari Otomasyon](https://github.com/fatih-bulut/OnlineTicariOtomasyon)**
+    <br>Ticari süreçlerin dijital ortamda yönetilmesini sağlayan kapsamlı otomasyon sistemi.
+
+*   **📊 [Proje Yönetim Platformu](https://github.com/fatih-bulut/Proje-Yonetim-Platformu)**
+    <br>Ekip ve görev takibi için geliştirilmiş proje yönetim aracı.
 
 <!-- Diğer projeler eklendikçe burası güncellenecektir -->
 
