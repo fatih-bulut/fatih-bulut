@@ -4,7 +4,7 @@
 
 # Fatih Bulut
 
-**Computer Engineering Student (3rd Year) | AI & Backend Developer**
+**Computer Engineering Student  | AI & Backend Developer**
 
 🚀 Yazılım geliştirme, **Yapay Zeka** ve **Makine Öğrenmesi** alanlarında tutkulu bir mühendis adayı.
 
